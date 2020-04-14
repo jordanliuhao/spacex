@@ -1,3 +1,6 @@
+For reference, check out the included [gif](spacex.gif)
+
+
 # SpaceX Challenge
 
 We provide our mobile candidates a challenge to showcase their abilities when implementing a basic iOS application that requests information from a REST API, written using React Native. This is meant to demonstrate your knowledge of not only the React Native framework and iOS platform, but also best practices for mobile development. What we're looking for is a strong React Native engineer who is also deeply familiar with iOS, so use your initiative how best you can showcase this.
