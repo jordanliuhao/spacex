@@ -1,4 +1,4 @@
-For reference, check out the included [gif](spacex.gif)
+![Project](spacex.gif)
 
 
 # SpaceX Challenge
